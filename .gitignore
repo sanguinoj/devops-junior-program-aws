@@ -1,0 +1,5 @@
+/terraform-provision-eks-cluster/.terraform/*
+*.bak
+*.tfstate
+/jenkins/.terraform/*
+/jenkins/.terraform.lock.hcl
