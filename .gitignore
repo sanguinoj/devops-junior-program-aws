@@ -3,3 +3,4 @@
 *.tfstate
 /jenkins/.terraform/*
 /jenkins/.terraform.lock.hcl
+/jenkins/terraform.tfvars
