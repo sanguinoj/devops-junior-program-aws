@@ -5,3 +5,4 @@
 /jenkins/.terraform.lock.hcl
 /jenkins/terraform.tfvars
 /jenkins/prueba
+/jenkins/terraform.tfvars
